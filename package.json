@@ -1,0 +1,22 @@
+{
+  "name": "reselect-dev-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen-hu-666/reselect-dev-tool.git"
+  },
+  "author": "Allen Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allen-hu-666/reselect-dev-tool/issues"
+  },
+  "homepage": "https://github.com/allen-hu-666/reselect-dev-tool#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
